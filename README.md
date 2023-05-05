@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects (particulary machine learning) in biomedical data, especially in the field of biomedical spectroscopy
 - 📫 You can reach me via my email: omar.elkadi@live.com   
         More details about me are available at:   
-         1. my wixsite: [https://omelkadi.wixsite.com/profile  ](https://omarelkadi7.wixsite.com/profile) 
+         1. my wixsite: [https://omelkadi.wixsite.com/profile  ](https://omarelkadi7.wixsite.com/profile)   
          2. linkedin: http://www.linkedin.com/in/Oelkadi   
          3. ResearchGate: https://www.researchgate.net/profile/Omar-Elkadi-3   
          4. GoogleScholar: https://scholar.google.com/citations?user=LLpBMvQAAAAJ&hl=en   
